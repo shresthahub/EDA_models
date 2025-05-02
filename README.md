@@ -19,7 +19,7 @@ Visualization using corrplot
 - **Analysis Includes**: Absolute frequency count, Relative frequency percentages, Bar chart visualization using ggplot2
 - **Output**: A saved plot (customer satisfaction barplot.png) showing satisfaction distribution, Detailed frequency table, Summary statistics of satisfaction levels
 
-## Chi Suqare Test for Independence
+## Chi Square Test for Independence
 - **Objective** : Determine whether satisfaction level is independent of income level.
 - **Approach** : Cross-tabulation between Income Level and Satisfaction Level, Chi-square test for independence using chisq.test(), Fisher’s Exact Test for small expected counts
 - **Output** :Test statistics, P-values indicating statistical significance
