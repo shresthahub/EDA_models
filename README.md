@@ -1,4 +1,4 @@
-# 📊 Student Performance & Satisfaction Analysis
+#  Student Performance & Satisfaction Analysis
 This project provides a comprehensive statistical analysis pipeline involving multiple datasets and techniques, including;
 1. Correlation Analysis of Student Performance
 2. Frequency Distribution Analysis of Customer Satisfaction
